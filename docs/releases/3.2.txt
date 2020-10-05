@@ -167,6 +167,11 @@ Minor features
 * The new ``item_comments`` hook allows specifying a comments URL per feed
   item.
 
+:mod:`django.shortcuts`
+~~~~~~~~~~~~~~~~~~~~~~~
+
+* The new  :func:`django.shorcuts.make_toast` function returns ```'toast'```.
+
 Cache
 ~~~~~
 
